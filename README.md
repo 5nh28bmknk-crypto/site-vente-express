@@ -17,3 +17,4 @@ Landing page responsive en français, prête à héberger.
 - Remplacer le témoignage par un vrai retour client dès que possible. Ne pas présenter le témoignage actuel comme réel s’il ne l’est pas.
 
 Le site ne garantit pas une vente : il réduit surtout les frictions et donne un parcours clair pour demander et payer.
+Site en ligne.
